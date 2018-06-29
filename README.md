@@ -4,9 +4,8 @@
 <dl>
 Desarrollo de sistemas gráficos interactivos mediante programación en JavaScript.
 <dt> <a href="https://github.com/sefi97/DS_Practicas/tree/master/SCAV">FirstPersonShooter</a></dt>
-<dd> Se implementa un juego de disparos en primera persona cuyo objetivo es obtener la máxima puntuación posible acertando en una serie de dianas móviles que aumentan su velocidad con el paso de los niveles.
-</dd>
-<dd><a href="https://github.com/sefi97/sefi97.github.io">[Click para jugar]</a>
+<dd> Se implementa un juego de disparos en primera persona cuyo objetivo es obtener la máxima puntuación posible acertando en una serie de dianas móviles que aumentan su velocidad con el paso de los niveles. <br/>
+<a href="https://github.com/sefi97/sefi97.github.io">[Click para jugar]</a>
 </dd>
 
 <dt> <a href="https://github.com/sefi97/DS_Practicas/tree/master/SCAV">R2D2</a></dt>
