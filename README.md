@@ -8,7 +8,10 @@ Desarrollo de sistemas gráficos interactivos mediante programación en JavaScri
 </dd>
 
 <dt> <a href="https://github.com/sefi97/DS_Practicas/tree/master/SCAV">R2D2</a></dt>
-<dd> La aplicación consiste en un juego donde hay que pilotar a un robot para evitar que colisione con los Objetos Volantes Malos (OVoMa)  que le restarán energía e intentar atrapar los Objetos Volantes Buenos (OVoBu) que le dotan de energía y/o puntos.
+<dd> La aplicación consiste en un juego donde hay que pilotar a un robot para evitar que colisione con los Objetos Volantes Malosque le restarán energía e intentar atrapar los Objetos Volantes Buenos que le dotan de energía y/o puntos.
 </dd>
+
+</br>
+Trabajo realizado junto a David Infante Casas (<a href="https://github.com/davidinfante">@davidinfante</a>)
 
 </dl>
