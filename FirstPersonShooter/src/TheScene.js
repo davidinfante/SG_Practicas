@@ -252,6 +252,14 @@ class TheScene extends Physijs.Scene {
   getCameraControls () {
     return this.controls;
   }
+
+  /// It returns the skybox
+  /**
+   * @return The Skybox
+   */
+  getSkybox () {
+    return this.skybox;
+  }
   
   /// It updates the aspect ratio of the camera
   /**
